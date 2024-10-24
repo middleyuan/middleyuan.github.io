@@ -2,10 +2,10 @@
 layout: post
 title: How to learn anything
 date: 2024-10-24 14:35:00-0000
-description: an example of a blog post with some math
-tags: formatting math
-categories: sample-posts
-related_posts: false
+description: a brief guide on how to learn anything
+tags: self-growth
+categories: 
+related_posts: true
 ---
 
 # How to Learn a New Skill

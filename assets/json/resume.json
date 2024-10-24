@@ -3,7 +3,7 @@
     "name": "Tsung Yuan Tseng",
     "label": "Scientific Researcher",
     "image": "",
-    "email": "tsung.yuan.tseng@rwth-aachen.de",
+    "email": "tsung.yuan.tseng@tum.de",
     "phone": "(+49) 162-5708-463",
     "url": "",
     "summary": "A Taiwan-born roboticist, passionate about moving stuff.",
@@ -42,6 +42,28 @@
       "highlights": ["Neural Network Verification", "Object Detection"]
     }
   ],
+  "education": [
+    {
+      "institution": "RWTH Aachen University",
+      "location": "Aachen, Germany",
+      "url": "",
+      "area": "",
+      "studyType": "M.Sc. Robotic Systems Engineering",
+      "startDate": "2020-10-01",
+      "endDate": "2023-09-30",
+      "score": "1.4/5"
+    },
+    {
+      "institution": "National Hsing Hua University",
+      "location": "Hsinchu, Taiwan",
+      "url": "",
+      "area": "",
+      "studyType": "B.Sc. Power Mechanical Engineering",
+      "startDate": "2020-10-01",
+      "endDate": "2023-09-30",
+      "score": "3.9/4.3"
+    }
+  ],
   "volunteer": [
     {
       "organization": "OfferLand",
@@ -60,18 +82,6 @@
       "startDate": "2021-10-01",
       "endDate": "2022-09-30",
       "summary": "Help people in Neupforte community get access to the internet and the printer."
-    }
-  ],
-  "education": [
-    {
-      "institution": "RWTH Aachen University, Aachen, Germany",
-      "location": "Aachen, Germany",
-      "url": "",
-      "area": "",
-      "studyType": "M.Sc. Robotic Systems Engineering",
-      "startDate": "2020-10-01",
-      "endDate": "2023-09-30",
-      "score": "1.4/5"
     }
   ],
   "awards": [
