@@ -22,4 +22,4 @@ I redesigned the logo of our lab because the original one was too detailed to be
     On the left, the original logo of our lab. On the right, the simplified logo that can be engraved on a pen.
 </div>
 
-Keywords: Adobe Illustrator.
+**Keywords**: Adobe Illustrator.
