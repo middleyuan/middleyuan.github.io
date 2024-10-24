@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-03-07 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I started a new position with the [Learning Systems and Robotics Lab](https://www.dynsyslab.org/vision-news/) at the [Technical University of Munich](https://www.tum.de/).

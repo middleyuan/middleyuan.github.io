@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Tsung Yuan Tseng
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17th December 1995
     - name: Languages
-      value: English, German
+      value: Mandarin, English, German
 
 - title: Education
   type: time_table

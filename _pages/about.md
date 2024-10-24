@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.dynsyslab.org/vision-news/'>Learning Systems and Robotics Lab</a>, TU Munich.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Building: N4, Room: 408</p>
+    <p>Theresienstraße 90</p>
+    <p>80333 Munich, Germany</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a scientific researcher in [Learning Systems and Robotics Lab](https://www.dynsyslab.org/vision-news/) at [Technical University of Munich](https://www.tum.de/).  I hold a Master’s degree in Robotic Systems Engineering from [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1). During my master study, I completed a research internship at [AUDI AG](https://www.audi.com/en/company.html), where my focus was on AI Safety Verification for antonomous driving. My research interests include (but are not limited to) Efficient Risk-Averse Bayesian Optimization, AI Safety Verification, and (Safe) Reinforcement Learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am actively working on two projects: 1) Benchmarking Learning-based Control and Reinforcement Learning, and 2) Efficient Risk-Averse Bayesian Optimization for Robot Learning. Aside from research, I have practical experience in model identification, extended Kalman filter, and control deployment on real drones. 
