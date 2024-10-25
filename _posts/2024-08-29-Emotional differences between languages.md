@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: distill
 title: Emotional differences between languages
 date: 2024-08-29 12:12:00-0000
 description: a fun fact about languages
 tags: life
 categories: 
-related_posts: true
-related_publications: false
+
+bibliography: 2024-08-29-Emotional_differences_between_languages.bib
 ---
 
 I realize that I have a different personality when I speak different languages. For example, I am more outgoing in English, more cautious in Mandarin, and less capable in German (because my German sucks, haha). Of course, that also depends on topics we chat and people we hang out. However, this didn't drive me to read research paper about this. It is this story that happened one day that made me dig into this topic.
