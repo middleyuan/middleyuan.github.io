@@ -36,7 +36,7 @@ related_posts: true
    * 2 mins each side
 
 5. Rest for 3 mins, then:
-   * Repeat step 4
+   * Repeat step 4 or place in oven for 10 mins
    * Add butter and garlic
 
 ## Chef's Notes
