@@ -24,11 +24,20 @@
   },
   "work": [
     {
+      "name": "CARIAD SE",
+      "position": "Safety AI Researcher",
+      "url": "",
+      "startDate": "2025-06-02",
+      "endDate": "Present",
+      "summary": "Safety AI Engineering.",
+      "highlights": ["Offline Monitoring", "ODD Extension"]
+    },
+    {
       "name": "Learning Systems and Robotics Lab,  Technical University of Munich",
       "position": "Research Associate",
       "url": "",
       "startDate": "2024-03-07",
-      "endDate": "Present",
+      "endDate": "2025-05-31",
       "summary": "Efficient Risk-Aware Bayesian Optimization for Robot Learning.",
       "highlights": ["Risk", "Bayesian Optimization", "Reinforcement Learning"]
     },
