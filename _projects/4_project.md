@@ -1,19 +1,25 @@
 ---
 layout: page
-title: 微お元気
-description: a mini video to promote a product
-img: /assets/img/product.png
+title: Wooden Engraved Pen
+description: a promotional product for our lab
+img: /assets/img/pen.png
 importance: 1
 category: fun
 related_publications: false
 ---
 
-I made this mini video to promote or advertise a product. My best friend and I brainstormed the idea and created it together. It was a lot of fun, and I hope you enjoy it!
+I redesigned the logo of our lab because the original one was too detailed to be engraved on a pen. I admire people on the earth who do graphic design. I basically spent half a day to finish this simple logo...
 
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/8F14-3zk61A" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/original_pen_logo.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/simplified_pen_logo.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    On the left, the original logo of our lab. On the right, the simplified logo that can be engraved on a pen.
+</div>
 
-**Keywords**: Adobe Premiere Pro.
+**Keywords**: Adobe Illustrator.

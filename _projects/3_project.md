@@ -1,14 +1,19 @@
 ---
 layout: page
-title: People Never Go
-description: a drawing of one of my favorite memories
-img: /assets/img/Confession.JPG
+title: 微お元気
+description: a mini video to promote a product
+img: /assets/img/product.png
 importance: 1
 category: fun
 related_publications: false
 ---
 
-I always forgot to take pictures when I hang out with my lovely friends. This drawing is a way of expressing my regret.
-People come and go, but memories stay forever. I hope I can take more pictures and do more drawings to record the precious moments in my life.
+I made this mini video to promote or advertise a product. My best friend and I brainstormed the idea and created it together. It was a lot of fun, and I hope you enjoy it!
 
-**Keywords**: Procreate.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/8F14-3zk61A" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+**Keywords**: Adobe Premiere Pro.
